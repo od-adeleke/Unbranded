@@ -1,0 +1,18 @@
+.rightBody-container {
+    padding: 20px;
+    background-color: #f5f5f5;
+}
+
+.cards-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.card-list {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+}

@@ -1,0 +1,46 @@
+.footer-container {
+    background-color: #000;
+    color: #fff;
+    display: flex;
+    gap: 3.5rem;
+    padding: 5rem 3rem;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer-address {
+    margin-bottom: 4rem;
+}
+
+.footer-address p {
+    font-size: .9rem;
+}
+
+.footer-contact-container {
+    font-size: .7rem;
+}
+
+.footer-links-container p {
+    font-size: .55rem;
+    line-height: 2px;
+}
+
+.footer-links-container >p {
+    color: #808080;
+}
+
+.footer-links {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: .25rem;
+    margin-bottom: 2rem;
+}
+
+.footer-links p {
+    margin-right: 1.7rem;
+}
+
+.footer-links p:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
