@@ -148,7 +148,7 @@ const RightBody = () => {
       colour05: "#CCCCCC",
       colour06: "#272727",
     },
-  ];git
+  ]
   // const shelf = shelfData.length
   return (
     <div className="rightBody-container">
